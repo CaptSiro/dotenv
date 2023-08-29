@@ -2,6 +2,8 @@
 
 use retval\Exc\NotFoundExc;
 use retval\Result;
+use function retval\fail;
+use function retval\success;
 
 require_once __DIR__ . "/../absol/import.php";
 
