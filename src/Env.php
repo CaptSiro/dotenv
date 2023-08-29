@@ -1,5 +1,7 @@
 <?php
 
+namespace dotenv;
+
 use retval\Exc\NotFoundExc;
 use retval\Result;
 use function retval\fail;

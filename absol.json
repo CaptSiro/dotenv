@@ -1,8 +1,7 @@
 {
-    "name": "",
+    "name": "dotenv",
     "version": "1.0.0",
     "dependencies": [
-        "https:\/\/github.com\/CaptSiro\/retval.git",
         "https:\/\/github.com\/CaptSiro\/retval.git"
     ]
 }
